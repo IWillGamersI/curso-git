@@ -1,11 +1,10 @@
-#Teste do Git :)
+**Teste do Git** 
 
-###Fazndo meu primeiro arquivo markdown
+Fazendo meu primeiro arquivo markdown
 
- -  item
+ -  1 item
  -  2 item
 
 - [ ] escolha 1
 - [ ] escolha 2
 
-**negrito** ;)
