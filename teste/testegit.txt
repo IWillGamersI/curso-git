@@ -1,0 +1,1 @@
+esse é um arquivo de teste que vou subir para o github via git bash
